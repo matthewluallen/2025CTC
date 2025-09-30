@@ -1,4 +1,5 @@
-# 2025CTC – AI on the Grid, https://github.com/matthewluallen/2025CTC
+# 2025CTC – AI on the Grid, 
+https://github.com/matthewluallen/2025CTC 
 
 This repository contains supporting materials for Matthew E. Luallen’s presentation at the **AIEC CTC 2025 Conference**, focusing on the intersection of **AI, cybersecurity, and critical infrastructure**.
 
